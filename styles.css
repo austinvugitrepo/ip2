@@ -1,0 +1,30 @@
+.flexbox-container {
+	display: flex;
+	flex-direction: column;
+}
+
+.flexbox-item {
+	width: 1500px;
+	border: 15px solid green;
+	background-color: yellow;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+.flexbox-item-1 {
+	height: 500px;
+}
+
+.flexbox-item-2 {
+	height: 500px;
+}
+
+.flexbox-item-3 {
+	height: 500px;
+}
+
+.flexbox-item-4 {
+	height: 500px;
+}
